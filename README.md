@@ -1,6 +1,6 @@
-# SolidWorks #CAD
+# SolidWorks CAD
 
-Solid Works Abilities:
+SolidWorks Abilities:
   1. Design 2D sketches with dimensions and geometric principles.
   2. Create 3D models using CAD software.
   3. Assemble 3D models into functional units.
